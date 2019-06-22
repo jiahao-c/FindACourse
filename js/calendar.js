@@ -139,7 +139,7 @@ function Event(eventTitle, eventURL, eventDate, startEndTime) {
 
 function loadCal(selectedRoom){
     let roomEvents = [];
-    $.getJSON("../data/merge.json", function (data, status) {
+    $.getJSON("data/merge.json", function (data, status) {
         $.each(data[building].rooms[selectedRoom], function (key, section) {
             roomEvents = sectionToEvents(section, roomEvents);
         });

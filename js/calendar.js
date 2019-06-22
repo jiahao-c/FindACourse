@@ -6,7 +6,7 @@ let building = urlParams.get('building');
 
 $(document).ready(() => {
     /*get rooms from JSON and add to selector*/
-    $.getJSON("../data/merge.json", function (data, status) {
+    $.getJSON("data/merge.json", function (data, status) {
         $.each(data[building].rooms, function (key, val) {
             //add room options to room selector
             $('#room').append(new Option(`${key}`, `${key}`));

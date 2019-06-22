@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!-- Lazy Load-->
+  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+  <!--icons-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+  <title>Sneak'in</title>
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="row mt-3" id="header">
+      <div class="col-md-9">
+        <h3>Find a McGill lecture</h3>
+        <b>Current Term: Fall 19</b>
+      </div>
+    </div>
+
+    <!-- 
+    Search Bar
+    -->
+
+    <div class="input-group mb-3">
+      <div class="input-group-prepend">
+        <span class="input-group-text" id="basic-addon1"><i class="fa fa-search"></i></span>
+      </div>
+      <input id="search" type="text" class="form-control" placeholder="Burnside / BURN" aria-label="Search">
+    </div>
+
+    <!-- 
+      Building List
+    -->
+    <div class="row" id="buildingList"> 
+      
+      <!-- will be inserted by app.js-->
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+  <script src="js/building.js"></script>
+</body>
+
+</html>

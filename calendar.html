@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+
+  <!-- Bootstrap CSS -->
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css'
+    integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous'>
+  <!-- FullCalendar -->
+  <link href='fullcalendar/packages/core/main.css' rel='stylesheet' />
+  <link href='fullcalendar/packages/daygrid/main.css' rel='stylesheet' />
+  <link href='fullcalendar/packages/timegrid/main.css' rel='stylesheet' />
+  <link href='fullcalendar/packages/list/main.css' rel='stylesheet' />
+  <script src='fullcalendar/packages/core/main.js'></script>
+  <script src='fullcalendar/packages/interaction/main.js'></script>
+  <script src='fullcalendar/packages/daygrid/main.js'></script>
+  <script src='fullcalendar/packages/timegrid/main.js'></script>
+  <script src='fullcalendar/packages/list/main.js'></script>
+  <style>
+    body {
+      margin: 40px 10px;
+      padding: 0;
+      font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    #calendar {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container mt-3">
+          <select class='form-control' id='room'
+      style="max-width: 150px; position: absolute; left: 0; right: 0; margin: 0 auto;"></select>
+    <div id='calendar'></div>
+  </div>
+
+
+  <script src='https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js'></script>
+  <script src='js/calendar.js'></script>
+</body>
+
+</html>

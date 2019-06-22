@@ -1,0 +1,192 @@
+{
+    "ADAMS": {
+        "full": "Adams Building",
+        "addr": "3450 rue University",
+        "img": "177"
+    },
+    "ARMST": {
+        "full": "Armstrong Building",
+        "addr": "3420 rue McTavish",
+        "img": "185"
+    },
+    "ARTS": {
+        "full": "Arts Building",
+        "addr": "853 rue Sherbrooke ouest",
+        "img": "103"
+    },
+    "BIRKS": {
+        "full": "Birks Building",
+        "addr": "3520 rue University",
+        "img": "124"
+    },
+    "BRONF": {
+        "full": "Bronfman Building",
+        "addr": "1001 rue Sherbrooke Ouest",
+        "img": "102"
+    },
+    "BURN": {
+        "full": "Burnside Hall",
+        "addr": "805 rue Sherbrooke ouest",
+        "img": "110"
+    },
+    "CDH": {
+        "full": "Chancellor Day Hall",
+        "addr": "3644 rue Peel",
+        "img": "0"
+    },
+    "DAVIS": {
+        "full": "Davis House",
+        "addr": "3654 promenade Sir William Osler",
+        "img": "128"
+    },
+    "DAWSON": {
+        "full": "Dawson Hall",
+        "addr": "853 rue Sherbrooke ouest",
+        "img": "123"
+    },
+    "DUFF": {
+        "full": "Duff Medical Building",
+        "addr": "3775 rue University",
+        "img": "169"
+    },
+    "EDUC": {
+        "full": "Education Building",
+        "addr": "3700 rue McTavish",
+        "img": "168"
+    },
+    "ENGMC": {
+        "full": "McConnell Engineering Building",
+        "addr": "3480 rue University",
+        "img": "131"
+    },
+    "ENGMD": {
+        "full": "Macdonald Engineering Building",
+        "addr": "817 rue Sherbrooke ouest",
+        "img": "130"
+    },
+    "ENGTR": {
+        "full": "Trottier Building",
+        "addr": "3630 rue University",
+        "img": "240"
+    },
+    "FERR": {
+        "full": "Ferrier Building",
+        "addr": "840 ave du Docteur-Penfield",
+        "img": "197"
+    },
+    "HOSMER": {
+        "full": "Hosmer House",
+        "addr": "3630 Sir William Osler",
+        "img": "149"
+    },
+    "LEA": {
+        "full": "Leacock Building",
+        "addr": "855 rue Sherbrooke ouest",
+        "img": "150"
+    },
+    "MAASS": {
+        "full": "Maass Chemistry Building",
+        "addr": "801 rue Sherbrooke ouest",
+        "img": "119"
+    },
+    "MC2001": {
+        "full": "McGill College 2001",
+        "addr": "2001 av McGill College",
+        "img": "300"
+    },
+    "MCMED": {
+        "full": "McIntyre Medical Building",
+        "addr": "3655 promenade Sir William Osler",
+        "img": "155"
+    },
+    "MDHAR": {
+        "full": "Macdonald Harrington Building",
+        "addr": " 815 rue Sherbrooke ouest",
+        "img": "118"
+    },
+    "MNI": {
+        "full": "Montreal Neurological Inst",
+        "addr": "3801 rue University",
+        "img": "159"
+    },
+    "MOR": {
+        "full": "Morrice Hall",
+        "addr": "3485 rue McTavish",
+        "img": "163"
+    },
+    "MT3434": {
+        "full": "McTavish 3434",
+        "addr": "3434 rue McTavish",
+        "img": "114"
+    },
+    "MUSIC": {
+        "full": "Strathcona Music Building",
+        "addr": "555 rue Sherbrooke ouest",
+        "img": "120"
+    },
+    "PE1085": {
+        "full": "Dr. Penfield 1085",
+        "addr": "1085 rue Docteur Penfield",
+        "img": "190"
+    },
+    "P&P": {
+        "full": "Pulp and Paper Building",
+        "addr": "3420 rue University",
+        "img": "158"
+    },
+    "PURVIS": {
+        "full": "Purvis Hall",
+        "addr": "1020 ave Des Pins ouest",
+        "img": "174"
+    },
+    "RAYMND": {
+        "full": "Raymond Building",
+        "addr": "21111 Lakeshore Road",
+        "img": "485"
+    },
+    "REDMUS": {
+        "full": "Redpath Museum",
+        "addr": "859 rue Sherbrooke ouest",
+        "img": "179"
+    },
+    "RPHYS": {
+        "full": "Rutherford Physics Building",
+        "addr": "3600 rue University",
+        "img": "189"
+    },
+    "SADB": {
+        "full": "Strathcona Anatomy & Dentistry",
+        "addr": "3640 rue University",
+        "img": "154"
+    },
+    "SH550": {
+        "full": "Sherbrooke 550",
+        "addr": "550 ave Sherbrooke",
+        "img": "201"
+    },
+    "SH680": {
+        "full": "Sherbrooke 680",
+        "addr": "680 rue Sherbrooke ouest",
+        "img": "233"
+    },
+    "SH688": {
+        "full": "Sherbrooke 688",
+        "addr": "688 rue Sherbrooke ouest",
+        "img": "233"
+    },
+    "STBIO": {
+        "full": "Stewart Biology Building",
+        "addr": "1205 ave du Docteur-Penfield",
+        "img": "111"
+    },
+    "WILSON": {
+        "full": "Wilson Hall",
+        "addr": "3506 rue University",
+        "img": "198"
+    },
+    "WONG": {
+        "full": "Wong Building",
+        "addr": "3610 rue University",
+        "img": "229"
+    }
+}
